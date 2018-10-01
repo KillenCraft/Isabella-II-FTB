@@ -58,4 +58,4 @@ In other words:
 - You MUST include the [About Isabella.txt file](./About Isabella.txt) with your work. You may not edit this file.
 - This license does not cover Isabella Classic. Please refer to that license.
 
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+[![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://creativecommons.org/licenses/by/3.0/)
