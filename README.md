@@ -26,7 +26,7 @@ Isabella II FTB is an expanded resource pack re-vision of [Isabella II](http://w
     * frejid
     * AndyThaBong
     * Zionmoose
-    * @ScottKillen
+    * [ScottKillen](https://github.com/ScottKillen)
     * Darn Buntley
     * kuroneko87
     * PatchouliKnowledge
