@@ -57,3 +57,5 @@ In other words:
 - You MUST clearly provide a link to the [original Minecraft Forum thread](http://www.minecraftforum.net/topic/242175-Isabella/)
 - You MUST include the [About Isabella.txt file](./About Isabella.txt) with your work. You may not edit this file.
 - This license does not cover Isabella Classic. Please refer to that license.
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
