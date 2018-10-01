@@ -16,7 +16,6 @@ Isabella II FTB is an expanded resource pack re-vision of [Isabella II](http://w
 * Main Menu Background by frejid
 * Some textures are based off the work of Mojang
 * Note: Some textures from Quandary and Coterie Craft appear in Isabella. These textures were originally created by Bonemouse for those packs.
-* 
 * Isabella II FTB pack was originally spearheaded by MrAndrew420 in November of 2012, and was later managed by ScottKillen and then frederikam
 * A huge number of textures were contributed to the [FTB Fourm Thread](http://forum.feed-the-beast.com/threads/16x-isabella-ii-ftb-edition.1379/) over several years. Listed in more or less the order of their first post with a contributed texture, they are: 
     * MrAndrew420 
@@ -27,7 +26,7 @@ Isabella II FTB is an expanded resource pack re-vision of [Isabella II](http://w
     * frejid
     * AndyThaBong
     * Zionmoose
-    * ScottKillen
+    * @ScottKillen
     * Darn Buntley
     * kuroneko87
     * PatchouliKnowledge
