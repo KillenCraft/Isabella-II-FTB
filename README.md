@@ -19,13 +19,13 @@ Isabella II FTB is an expanded resource pack re-vision of [Isabella II](http://w
 * Main Menu Background by [frejid](https://github.com/frejid)
 * Some textures are based off the work of [Mojang](https://github.com/mojang)
 * Note: Some textures from [Quandary](https://www.youtube.com/watch?v=YZN02xqjam0) and [Coterie Craft](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223548-coterie-craft-vmc1-12-default-revamped-updated-5) appear in Isabella. These textures were originally created by Bonemouse for those packs.
-* Isabella II FTB pack was originally spearheaded by [MrAndrew420](https://github.com/mrandrew420) in November of 2012, and was later managed by [ScottKillen](https://github.com/ScottKillen) and then frederikam
+* Isabella II FTB pack was originally spearheaded by [MrAndrew420](https://github.com/mrandrew420) in November of 2012, and was later managed by [ScottKillen](https://github.com/ScottKillen) and then [frederikam](https://bitbucket.org/%7B0e32d76e-764a-4bee-a4e7-e4ef9c535f5a%7D/)
 * A huge number of textures were contributed to the [FTB Fourm Thread](http://forum.feed-the-beast.com/threads/16x-isabella-ii-ftb-edition.1379/) over several years. Listed in more or less the order of their first post with a contributed texture, they are: 
     * [MrAndrew420](https://github.com/mrandrew420)
     * [Gnomeo](https://github.com/gnomeo)
     * listoflights
     * Wollibeebee
-    * frederikam
+    * [frederikam](https://bitbucket.org/%7B0e32d76e-764a-4bee-a4e7-e4ef9c535f5a%7D/)
     * [frejid](https://github.com/frejid)
     * AndyThaBong
     * [Zionmoose](https://github.com/zionmoose)
